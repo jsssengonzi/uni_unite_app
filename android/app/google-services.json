@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610358323939",
+    "firebase_url": "https://uni-unite-app.firebaseio.com",
+    "project_id": "uni-unite-app",
+    "storage_bucket": "uni-unite-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610358323939:android:741567fec64876d79a33d6",
+        "android_client_info": {
+          "package_name": "com.example.uni_unite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610358323939-petcd0t9u7t2q2jcjgg9rbtkhj3vfbcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uni_unite_app",
+            "certificate_hash": "782e0669159eedf40000b5c588077a67ffb4911f"
+          }
+        },
+        {
+          "client_id": "610358323939-cb26c6g6jap39ni4t20gaj7t94r7bm81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyVoSaao2pQ4VbyXVjPXbLeRx4Z1BcQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610358323939-cb26c6g6jap39ni4t20gaj7t94r7bm81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
